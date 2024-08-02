@@ -8,7 +8,7 @@
 
 Streamlit Cloud : [Bike Sharing Dashboard](https://dicoding-bikesharing-naufal-rafid.streamlit.app/)
 
-![Bike Sharing Dashboard Preview](images/dashboard.png)
+![Bike Sharing Dashboard Preview](dashboard.png)
 
 ## Setup environment
 
